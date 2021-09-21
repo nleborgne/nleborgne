@@ -2,4 +2,3 @@
 <h1 align='center'> Welcome :wave:</h1>
 <p align='center'> I am Nicolas, a &nbsp;🇫🇷 &nbsp; Developer working on cool projects :smile:</p>
 <p align='center'><a target='_blank' href="https://builtbynlb.com">builtbynlb.com</a></p>
-<p align='center'><a href='mailto:frontdesk@builtbynlb.com'>frontdesk@builtbynlb.com</a></p>
